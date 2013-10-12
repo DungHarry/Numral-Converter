@@ -1,0 +1,5 @@
+C:\Documents and Settings\Dung Harry\Local Settings\Application Data\Temporary Projects\Converter\bin\Debug\Converter.exe
+C:\Documents and Settings\Dung Harry\Local Settings\Application Data\Temporary Projects\Converter\bin\Debug\Converter.pdb
+C:\Documents and Settings\Dung Harry\Local Settings\Application Data\Temporary Projects\Converter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dung Harry\Local Settings\Application Data\Temporary Projects\Converter\obj\x86\Debug\Converter.exe
+C:\Documents and Settings\Dung Harry\Local Settings\Application Data\Temporary Projects\Converter\obj\x86\Debug\Converter.pdb
